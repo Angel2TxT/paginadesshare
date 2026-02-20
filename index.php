@@ -17,11 +17,11 @@
     <br>
     <h2>Integrantes</h2>
     <ul>
-        <li><a href="./arbey.docx">Descarga el cv de Arbey</a>
+        <li><a href="./arbey2.docx">Descarga el cv de ArbeyY</a>
         </li>
         <li><a href="./jafet.docx">Descarga el cv de Jafet</a>
         </li>
-        <li><a href="./angel.docx">Descarga el cv de Angel</a>
+        <li><a href="./angel1.docx">Descarga el cv de Angel</a>
         </li>
         <li><a href="./roldan.docx">Descargar el cv de Roldan</a>
         </li>
