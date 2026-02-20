@@ -11,7 +11,7 @@
     
     <h1>Welcome to my website</h1>
     <p>This is a simple HTML page.</p>
-    <img src="/logo.jpg" alt="">
+    <img src="/logo1.jpg" alt="">
 
 </body>
 </html>
